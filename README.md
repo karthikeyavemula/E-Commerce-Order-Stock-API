@@ -1,4 +1,4 @@
-# 🛒 Headless E-Commerce Order & Stock API Microservice
+# 🛒 E-Commerce Order & Stock API
 
 A production-ready, high-performance Java backend microservice built to handle real-time online checkout validation and multi-zone warehouse stock tracking. The engine is engineered with strict decoupling principles, concurrency safety guards, and optimized low-level database operations.
 
